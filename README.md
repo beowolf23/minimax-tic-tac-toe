@@ -1,4 +1,4 @@
-====== TEMA 2 - Game Tree ======
+====== Game Tree - Minimax Algorithm ======
 
 Structuri folosite:
 
